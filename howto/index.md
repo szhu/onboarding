@@ -6,6 +6,10 @@ If you have the sufficient permissions, you can also edit content directly from 
 
 ---
 
+Example content:
+
+[How to install `javac` linter in Sublime Text 3](st3-javac/index.md)
+
 How to:
 
 * [Clone and set up a Github repo](clone-and-set-up-a-github-repo.md)
